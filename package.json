@@ -1,9 +1,9 @@
 {
-  "name": "chartjs-plugin-streaming",
+  "name": "@robloche/chartjs-plugin-streaming",
   "homepage": "https://github.com/Robloche/chartjs-plugin-streaming",
   "description": "Chart.js plugin for live streaming data",
   "author": "Akihiko Kusanagi <nagi@nagi-p.com> (https://nagix.github.io/)",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "license": "MIT",
   "jsdelivr": "dist/chartjs-plugin-streaming.min.js",
   "unpkg": "dist/chartjs-plugin-streaming.min.js",
